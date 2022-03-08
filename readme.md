@@ -4,9 +4,9 @@ Criada conforme o curso "The Complete Node.js Developer Course (3rd Edition)", d
 
 
 para rodar a aplicação:
--instalar as dependencias utilizando comando npm install na pasta raiz da aplicação;
--utilizar o comando npm run start irá iniciar a aplicação;
--utilizar o comando npm run dev ira iniciar a aplicação em modo de desenvolvimento(necessário ter o nodemon instalado);
+- instalar as dependencias utilizando comando npm install na pasta raiz da aplicação;
+- utilizar o comando npm run start irá iniciar a aplicação;
+- utilizar o comando npm run dev ira iniciar a aplicação em modo de desenvolvimento(necessário ter o nodemon instalado);
 
 A aplicação utiliza duas APIs: 
 - https://weatherstack.com/ para consulta meteorológica; 
